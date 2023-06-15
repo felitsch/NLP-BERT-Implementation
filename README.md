@@ -2,6 +2,14 @@
 
 This repository is a university project showcasing my NLP (Natural Language Processing) skills and demonstrating the use of BERT (Bidirectional Encoder Representations from Transformers).
 
+## Airbnb Property Unlisting Prediction
+
+The goal of this project is to utilize Natural Language Processing (NLP) models to predict whether a property listed on Airbnb will be unlisted in the next quarter. To accomplish this, we will leverage real Airbnb property descriptions, Airbnb host descriptions, and comments from previous guests. 
+
+Using the NLP techniques, we will implement an NLP classification model that can accurately predict, for each property, whether it will be unlisted (1) or remain listed (0).
+
+
+
 ## Notebooks
 
 There are two different notebooks available in this repository:
