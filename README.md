@@ -15,8 +15,7 @@ There are two different notebooks available in this repository:
 The repository includes the following important files:
 
 - `.gitattributes`: Configuration file for Git attributes.
-- `NLP_16.csv`: Dataset file containing the NLP data.
-- `README.md`: This readme file.
+- `NLP_16.csv`: Dataset file containing the predictions on the test data.
 - `test.xlsx`: Additional test data file.
 - `test_reviews.xlsx`: Test data file for reviews.
 - `train.xlsx`: Additional training data file.
